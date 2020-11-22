@@ -1,0 +1,8 @@
+{
+    "weatherApi": {
+        "domain": "https://api.openweathermap.org/data/2.5/weather",
+        "key": "3d1a3e1f94dc64e463d69e4bf4c5ca6a"
+    },
+    "iconUrl": "https://openweathermap.org/img/wn/",
+    "defaultCity": "Kyiv"
+}
